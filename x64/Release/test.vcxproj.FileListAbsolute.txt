@@ -1,0 +1,2 @@
+C:\Users\a.y.sirotyonkov\Documents\VS Code projects\Новая папка\test\x64\Release\test.exe
+C:\Users\a.y.sirotyonkov\Desktop\Module_32.6\x64\Release\test.exe
