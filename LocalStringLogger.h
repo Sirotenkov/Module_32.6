@@ -1,7 +1,7 @@
 #pragma once
 #include "DBConnection.h"
 
-// ClassThatUserDB из задания заменим на более подходящее по смыслу 
+// ClassThatUserDB РёР· Р·Р°РґР°РЅРёСЏ Р·Р°РјРµРЅРёРј РЅР° Р±РѕР»РµРµ РїРѕРґС…РѕРґСЏС‰РµРµ РїРѕ СЃРјС‹СЃР»Сѓ 
 class LocalStringLogger {
 public:
 	bool openConnection(std::string const& username, std::string const& password) {
